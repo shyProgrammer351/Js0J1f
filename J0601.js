@@ -1,0 +1,1 @@
+const sP3a2 =[[ "1",	"",	"table	      :ww$        main():ww	scan:rb$ (Scanner) :cbw	"],["2",	"나이를 입력하세요: 10\n",	"table	      :ww$        main():ww	scan:rb$ (Scanner) :cbw	 age:rb$ <b>10</b> :cbw	"],["3",	"",	"table	      :ww$        main():ww	scan:rb$ (Scanner) :cbw	 age:rb$ 10 :cbw	"],["5",	"",	""],["6",	"버스요금은 450원입니다.",	""],["11",	"",	"" ],];

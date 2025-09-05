@@ -1,0 +1,1 @@
+const sP3a2 =[[ "1",	"",	"table	         :ww$        main():ww	scan:rb$ (Scanner) :cbw	"],["2",	"한 글자를 입력하세요: 2\n",	"table	         :ww$        main():ww	scan:rb$ (Scanner) :cbw	 letter:rb$ <b>'2'</b> :cbw	"],["3",	"",	"table	         :ww$        main():ww	scan:rb$ (Scanner) :cbw	 letter:rb$ '2' :cbw	"],["5",	"",	""],["7",	"",	""],["8",	"숫자를 입력했군요^^",	""],["11",	"",	"" ],];
