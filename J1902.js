@@ -1,0 +1,1 @@
+const sP3a2 =[[ "1",	"",	"table	       :ww$        main():ww	"],["2",	"RED, YELLOW, GREEN, BLUE, PURPLE 중 하나를 입력하세요: yellow\n",	"table	       :ww$        main():ww	 color:rb$ <b>yellow</b> :cbw	"],["3",	"",	"table	       :ww$        main():ww	 color:rb$ yellow :cbw	"],["5",	"",	""],["6",	"노랑색을 선택한 당신은 밝고 솔직하고 명랑하며 호기심도 강하고 주의력과 집중력이 높네요",	""],["12",	"",	"" ],];
